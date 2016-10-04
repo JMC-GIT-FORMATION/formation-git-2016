@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello!! :)
 J'aime les saucisses
+=======
+Hello!! :D
+>>>>>>> 8a2c659374c69d59a02c9393ee536db33eed8764
