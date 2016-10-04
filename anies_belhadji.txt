@@ -2,7 +2,7 @@
 
 coucou 
 
-
+J'ecris dans mon fichier
 =======
 coucou
 >>>>>>> 6f7b45b2895d5267b99ce51a3a707ad0f7516b38
